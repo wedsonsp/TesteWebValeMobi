@@ -20,7 +20,6 @@
         <div class="container">
             <table>
                 <tr class="logo">
-
                     <div class="data">
                         <p>
                             Data e Hora: <%=DateTime.Now.ToString() %>
